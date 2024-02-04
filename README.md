@@ -1,4 +1,4 @@
-<img align="left" src="transparent-blue-flower-plant-petal-blue-and-white-porcelain-5d9a3c837b3703.6782001115703891235047.png" width="90">
+<img align="left" src="https://i.imgur.com/AfuJqnJ.png" width="90">
 
 ### Hey there!
 
