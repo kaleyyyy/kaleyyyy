@@ -8,7 +8,7 @@ I'm **Kaley**  a self-taught C#/Java developer. I'm passionate about software de
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
 ### Main Langauges
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
