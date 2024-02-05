@@ -6,7 +6,7 @@ I'm **Kaley**  and I am currently learning C# & Java.
 
 
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
-### Main Langauges
+###  Langauges
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
