@@ -2,7 +2,7 @@
 
 ### Hey there!
 
-I'm **Kaley**  a self-taught C#/Java developer. I'm passionate about software development and video games!
+I'm **Kaley**  and I am currently learning C# & Java.
 
 
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
@@ -15,10 +15,8 @@ I'm **Kaley**  a self-taught C#/Java developer. I'm passionate about software de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
 </div>
 
-### Looking for Work
-
-💼 If you have any interesting projects or if you're hiring, I'd love to connect and explore potential collaborations.
-
-
+### Projects / Work
+---
+ 
 ### Contact 
-- 📧 Email: ---
+- discord: kaley. 
