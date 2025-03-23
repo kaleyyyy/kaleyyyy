@@ -1,8 +1,8 @@
 <img align="left" src="https://i.imgur.com/AfuJqnJ.png" width="100">
 
-### Hey there!
+### Hello!
 
-I'm **Kaley**  and I am currently learning C# & Java.
+I'm **Kaley**  and I am currently learning HTML, CSS, JS, C#, Python, & Java.
 
 
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
