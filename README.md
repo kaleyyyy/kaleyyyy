@@ -19,4 +19,6 @@ I'm **Kaley**  and I am currently learning C# & Java.
 ---
  
 ### Contact 
-- discord: kaley. 
+- discord: kaley.
+- instagram: 02kho
+  
