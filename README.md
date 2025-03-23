@@ -6,7 +6,7 @@ I'm **Kaley**  and I am currently learning HTML, CSS, JS, C#, C++, Python, & Jav
 
 
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
-###  Langauges
+###  Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
