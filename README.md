@@ -2,7 +2,7 @@
 
 ### Hello!
 
-I'm **Kaley**  and I am currently learning HTML, CSS, JS, C#, Python, & Java.
+I'm **Kaley**  and I am currently learning HTML, CSS, JS, C#, C++, Python, & Java.
 
 
 ![](https://komarev.com/ghpvc/?username=kaleyyyy&color=2a6acb)
